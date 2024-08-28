@@ -1,4 +1,4 @@
-# Impacts-Phase-Errors-PDA-NF-RISs
+# Impact-Phase-Errors-PDA-NF-RISs
 
 This is a code package is related to the follow two scientific articles:
 
